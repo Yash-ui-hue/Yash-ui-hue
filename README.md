@@ -1,6 +1,8 @@
-# Who am I ? 
- I'm Yash vishwakarma, currently pursuing Bachelor's in Computer Application.
+# ✨ Who am I ? 
+ I'm Yash vishwakarma, pursuing Bachelor's in Computer Application. A passionate Full stack developer on a journey to Solve real world problems.
 
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--Here are some ideas to get you started:
 
