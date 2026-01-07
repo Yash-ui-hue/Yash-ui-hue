@@ -1,5 +1,5 @@
-## Who am I ? 
-# I'm Yash vishwakarma, currently pursuing Bachelor's in Computer Application.
+# Who am I ? 
+## I'm Yash vishwakarma, currently pursuing Bachelor's in Computer Application.
 
 
 <!--Here are some ideas to get you started:
